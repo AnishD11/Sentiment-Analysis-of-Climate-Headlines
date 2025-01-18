@@ -1,4 +1,4 @@
-## Sentiment Analysis on Climate Headlines
+## Sentiment Analysis of Climate-Related News Headlines
 This project applies sentiment analysis to climate-related headlines, determining whether the sentiment is positive, negative, or neutral. Using natural language processing (NLP) 
 and machine learning models, the goal is to analyze how public sentiment on climate change is conveyed through news headlines.
 
