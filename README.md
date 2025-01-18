@@ -1,5 +1,5 @@
 ## Sentiment Analysis of Climate-Related News Headlines
-This project applies sentiment analysis to climate-related news headlines, to determine whether the sentiment is negative, neutral, or positive. The goal is to use a neural network model to analyze news headlines and classify them into three categories: those discussing the negative consequences of climate change, those remaining neutral, and those highlighting positive developments in climate change efforts.
+This project applies sentiment analysis to climate-related news headlines, to determine whether the sentiment is negative, neutral, or positive. The goal is to create a neural network model to analyze news headlines and classify them into three categories: those discussing the negative consequences of climate change, those remaining neutral, and those highlighting positive developments in climate change efforts.
 
 
 ## Dependencies:
