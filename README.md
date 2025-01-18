@@ -4,7 +4,12 @@ This project applies sentiment analysis to climate-related news headlines, to de
 
 ## Dependencies:
 
-[![PyTorch](https://img.shields.io/badge/PyTorch-v2.0-red?style=flat&logo=pytorch)](https://pytorch.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-v1.24-blue?style=flat&logo=numpy)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-v3.5-green?style=flat&logo=matplotlib)](https://matplotlib.org/)
-[![TQDM](https://img.shields.io/badge/TQDM-v4.0-orange?style=flat&logo=tqdm)](https://tqdm.github.io/)
+![beautifulsoup4](https://img.shields.io/badge/beautifulsoup4-4.12.3-brightgreen)
+![contractions](https://img.shields.io/badge/contractions-0.1.73-blue)
+![nltk](https://img.shields.io/badge/nltk-3.9.1-blue)
+![numpy](https://img.shields.io/badge/numpy-2.0.2-blue)
+![pandas](https://img.shields.io/badge/pandas-2.2.3-blue)
+![matplotlib](https://img.shields.io/badge/matplotlib-3.10.0-blue)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-1.6.1-blue)
+![tensorflow](https://img.shields.io/badge/tensorflow-2.18.0-blue)
+![wordcloud](https://img.shields.io/badge/wordcloud-1.9.4-blue)
